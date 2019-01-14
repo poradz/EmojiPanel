@@ -47,7 +47,6 @@
     "watchify": "^3.9.0"
   },
   "dependencies": {
-    "fbemitter": "^2.1.1",
     "tether": "^1.4.0"
   }
 }
